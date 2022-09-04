@@ -7,7 +7,8 @@
 #ifndef GBT_HARDWARE_H__
 #define GBT_HARDWARE_H__
 
-#include <stdio.h>
+#include <stdint.h>
+#include <stddef.h>
 
 #define BIT(n)              (1 << (n))
 
